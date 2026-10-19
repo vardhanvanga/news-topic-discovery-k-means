@@ -173,11 +173,13 @@ The notebook uses scikit-learn's `fetch_20newsgroups()` loader and removes heade
 
 ## 👥 Contributors
 
-Add the team members' preferred names and GitHub profile links here before publishing.
+V. Vardhan 
+M. Harishankar
+V. Sunil 
 
 ## 📄 License
 
-No license file is included in this starter package. If the team agrees to allow reuse of the project's code, the **MIT License** is a common permissive option. Confirm that all contributors agree and add the license text and appropriate copyright notice before selecting it on GitHub.
+** MIT License **
 
 ---
 
